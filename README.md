@@ -1,4 +1,4 @@
-Original plugin : https://github.com/hannahtinkler/wordpress-custom-post-type-tables/edit/master/README.md
+Original plugin : https://github.com/hannahtinkler/wordpress-custom-post-type-tables
 
 CPT must be set to Public in order to work.
 
